@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Webricka-assessment%20/static/css/main.251c6096.css",
+    "main.js": "/Webricka-assessment%20/static/js/main.45aa59c6.js",
+    "static/js/787.0da74b77.chunk.js": "/Webricka-assessment%20/static/js/787.0da74b77.chunk.js",
+    "static/media/mentalking.jpg": "/Webricka-assessment%20/static/media/mentalking.53aa84ce80c17656ab6e.jpg",
+    "static/media/group.jpg": "/Webricka-assessment%20/static/media/group.a38470b8374f98249908.jpg",
+    "static/media/download.jpg": "/Webricka-assessment%20/static/media/download.8a8806897731f3c2c656.jpg",
+    "static/media/firstpic.avif": "/Webricka-assessment%20/static/media/firstpic.40fec12b97502159bc90.avif",
+    "static/media/secondpic.jpg": "/Webricka-assessment%20/static/media/secondpic.a253a171d86045f68bc1.jpg",
+    "index.html": "/Webricka-assessment%20/index.html",
+    "main.251c6096.css.map": "/Webricka-assessment%20/static/css/main.251c6096.css.map",
+    "main.45aa59c6.js.map": "/Webricka-assessment%20/static/js/main.45aa59c6.js.map",
+    "787.0da74b77.chunk.js.map": "/Webricka-assessment%20/static/js/787.0da74b77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.251c6096.css",
+    "static/js/main.45aa59c6.js"
+  ]
+}
